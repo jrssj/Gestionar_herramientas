@@ -6,3 +6,6 @@ def actualizar_herramienta():
     print("Actualizar herramienta") 
 def listar_herramientas(): 
     print("Listar herramientas")
+
+def cantidad_herramientas():
+    print("Cantidad de herramientas")
